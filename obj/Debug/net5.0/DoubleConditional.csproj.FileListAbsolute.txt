@@ -1,0 +1,16 @@
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\bin\Debug\net5.0\DoubleConditional.exe
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\bin\Debug\net5.0\DoubleConditional.deps.json
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\bin\Debug\net5.0\DoubleConditional.runtimeconfig.json
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\bin\Debug\net5.0\DoubleConditional.runtimeconfig.dev.json
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\bin\Debug\net5.0\DoubleConditional.dll
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\bin\Debug\net5.0\ref\DoubleConditional.dll
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\bin\Debug\net5.0\DoubleConditional.pdb
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\obj\Debug\net5.0\DoubleConditional.csprojAssemblyReference.cache
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\obj\Debug\net5.0\DoubleConditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\obj\Debug\net5.0\DoubleConditional.AssemblyInfoInputs.cache
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\obj\Debug\net5.0\DoubleConditional.AssemblyInfo.cs
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\obj\Debug\net5.0\DoubleConditional.csproj.CoreCompileInputs.cache
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\obj\Debug\net5.0\DoubleConditional.dll
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\obj\Debug\net5.0\ref\DoubleConditional.dll
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\obj\Debug\net5.0\DoubleConditional.pdb
+C:\Users\Lad\source\repos\CSharp\Dahia\DoubleConditional\obj\Debug\net5.0\DoubleConditional.genruntimeconfig.cache
